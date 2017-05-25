@@ -5,6 +5,22 @@ p.notes{
 }
 
 ul.turn{
-
   color: blue
   }
+
+.jug{
+  color:red
+}
+
+.kiwi{
+  color:green
+}
+.sidebar {
+        width: 70%;
+        float: right;
+        background-color: #4256f4;
+      }
+img{
+  width: 30%;
+  height:
+}
